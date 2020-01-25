@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Dana Point",
+                 "ID": "35499",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "34241 E. Pacific Coast Hwy. Dana Point, CA 92629",
+                 "phone": "949.328.6681",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -117.692960,
+                                 33.466015
+                                 
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Beverly Hills",
+                 "ID": "29318",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "9873 S. Santa Monica Blvd. Beverly Hills, CA 90212",
+                 "phone": "424.625.3969",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -118.411134,
+                                 34.066122
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B West 3rd",
+                 "ID": "000000",
+                 "hours": "8am - 10pm",
+                 "address": "8106 West 3rd St. Los Angeles, CA 90048",
+                 "phone": "213.973.8439",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -118.366182,
+                                 34.071985
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Newport Beach",
+                 "ID": "28049",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "2744 East Coast Hwy. Newport Beach, CA 92625",
+                 "phone": "949.478.5661",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -117.872604,
+                                 33.601554
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Santa Monica",
+                 "ID": "18336",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "1229 Montana Ave. Santa Monica, CA 90403",
+                 "phone": "424.259.1616",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -118.496412,
+                                 34.031480
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B South Bay",
+                 "ID": "24638",
+                 "hours": "8am - 10pm",
+                 "address": "1083 Aviation Blvd. Hermosa Beach, CA 90254",
+                 "phone": "424.241.0440",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -118.388217,
+                                 33.864535
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Studio City",
+                 "ID": "00000",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "13033 Ventura Blvd. Studio City, CA 91604",
+                 "phone": "818.533.1893",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -118.417234,
+                                 34.146026
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Murray Hill",
+                 "ID": "000000",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "373 3rd Ave. New York, NY 10016",
+                 "phone": "929.277.1301",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -73.981123,
+                                 40.741065
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Union Square",
+                 "ID": "35498",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "114 4th Ave. New York, NY 10003",
+                 "phone": "646.535.1915",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.990269, 40.732675]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "S+B Philadelphia",
+                 "ID": "18338",
+                 "hours": "Mon-Fri 9am-11pm \nSat-Sun 10am-5pm",
+                 "address": "1120 Walnut St. Philadelphia, PA 19107",
+                 "phone": "484.278.1389",
+                 "description": "Description..."
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-75.160033, 39.948550]
+                 }
+                 }
+                 
+                 ]
+}
